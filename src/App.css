@@ -1,0 +1,14 @@
+#root{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(./assets/fondo.jpg);
+
+}
+
+.main{
+    flex-grow: 1;
+}
+.inputs{
+    background-color: rgb(187, 108, 108);
+}
