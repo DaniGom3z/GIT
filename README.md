@@ -4,6 +4,16 @@
 # GIT
 Investigación y practica sobre el uso de git.
 
+<<<<<<< HEAD
+=======
+## Run locally
+1. ### **clone repo**
+    $ git clone git@github.com:DaniGom3z/GIT.git
+    $ cd GIT
+1. ### **Run**
+    npm install
+    
+>>>>>>> 945ab3fc73c81a8f87da4697fc01828c95211451
 ## Comandos importantes para git
 
 1. ### **git init**
