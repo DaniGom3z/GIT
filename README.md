@@ -11,6 +11,7 @@ Investigación y practica sobre el uso de git.
      ``` $ cd GIT```
 1. ### **Run**
    ``` npm install```
+   ``` npm run dev```
     
 ## Comandos importantes para git
 
