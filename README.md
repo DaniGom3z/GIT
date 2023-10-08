@@ -6,8 +6,8 @@ Investigación y practica sobre el uso de git.
 
 ## Run locally
 1. ### **clone repo**
-   > $ git clone git@github.com:DaniGom3z/GIT.git
-   > $ cd GIT
+   ```$ git clone git@github.com:DaniGom3z/GIT.git ```
+   $ cd GIT
 1. ### **Run**
    > npm install
     
